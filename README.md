@@ -1,2 +1,0 @@
-# Connelly
-Mi repositorio personal.
